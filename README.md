@@ -15,6 +15,8 @@ The retrieved JSON Dictionary can be found in the file, once crawling is complet
 
 `apiPagesDict.json`
 
+If there are any errors, it will be written to the file `crawlErrors.json`
+
 
 Repl: 
 
