@@ -5,6 +5,7 @@
 To run : 
 
 - Install python3 
+- `git clone <repo url>`
 - Run : `python3 main.py `
 
 
@@ -18,6 +19,8 @@ The retrieved JSON Dictionary can be found in the file, once crawling is complet
 Repl: 
 
 The online repl can be executed by just one click :
-Visit : 
+
+Visit :
 [flick-api-docs-crawler Online repl](https://repl.it/@AthulMuralidhar/flickrDocs-20)
+
 Click `run` !  
